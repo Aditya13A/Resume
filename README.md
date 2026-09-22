@@ -1,9 +1,24 @@
-# Resume
+# Aditya Anandan — Resume
 
-My personal resume, hosted with GitHub Pages.
+This repository hosts Aditya Anandan's resume using GitHub Pages.
 
-🔗 Live site: https://aditya13a.github.io/Resume/
+## Website
 
-## Editing
+After enabling GitHub Pages for the `main` branch, the resume will be available at:
 
-Edit `index.html` to update the content of your resume. Changes pushed to the `main` branch will automatically publish to GitHub Pages (once enabled in repository Settings → Pages).
+<https://aditya13a.github.io/Resume/>
+
+## Files
+
+- `index.html` — responsive web resume and printable PDF view.
+- `Resume_AdityaA.md` — Markdown version of the resume.
+
+## Enable GitHub Pages
+
+1. Open the repository **Settings**.
+2. Select **Pages** in the left sidebar.
+3. Set **Source** to **Deploy from a branch**.
+4. Select the `main` branch and the `/ (root)` folder.
+5. Click **Save**.
+
+GitHub Pages may take a few minutes to publish after it is enabled.

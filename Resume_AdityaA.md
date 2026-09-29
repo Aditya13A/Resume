@@ -16,17 +16,17 @@ Full-Stack Software Engineer with over 5 years of experience specializing in Jav
 
 #### Backend Integration, Workflow Automation & Cross-Platform Solutions
 
-- **Encore POC:** Architected a full-stack testing and quality-assurance platform for multi-tenant organizations, including automated accessibility compliance scanning, security vulnerability detection, and AI-powered test generation using LLMs and MCPs.
-- **HEAL (Appnomic):** Engineered scalable backend features for a server-monitoring tool. Spearheaded an anomaly lifecycle framework and multi-threshold alerting system. Built GraphQL APIs to streamline communication across microservices.
-- **Salezshark Connect+:** Delivered WhatsApp integration and campaign-management features. Implemented workflow automation with triggers, conditions, and actions.
-- **Salezshark Engage:** Implemented robust date and time-zone configurations across web and mobile applications. Added WhatsApp analytics to dashboards. Self-trained in ReactJS to develop an Outlook add-in that improved user productivity.
-- **FDX HubSpot POC:** Built a proof-of-concept integration to synchronize contacts and companies between iMIS and HubSpot systems.
+- **Encore POC:** Architected a full-stack testing and quality-assurance platform for multi-tenant organizations featuring automated accessibility compliance scanning, security vulnerability detection, and AI-powered test generation using LLMs and MCPs.
+- **HEAL (Appnomic):** Engineered scalable backend features for a server-monitoring tool. Spearheaded the implementation of an anomaly lifecycle framework and multi-threshold alerting system. Built GraphQL APIs to streamline communication across microservices.
+- **Salezshark Connect+:** Delivered WhatsApp integration and campaign-management features. Advanced platform capabilities by implementing workflow automation with triggers, conditions, and actions.
+- **Salezshark Engage:** Implemented robust date/time-zone configurations across web and mobile apps. Added WhatsApp analytics to dashboards. Self-trained in ReactJS to develop an Outlook add-in that improved user productivity.
+- **FDX Hubspot POC:** Built a proof-of-concept integration to synchronize contacts and companies between iMIS and Hubspot systems.
 
 #### Project Development & UI Implementation
 
-- **FDX Onboarding:** Developed and maintained Vue.js UI components. Created API endpoints for templated email delivery and optimized logic for managing fallout users with temporary membership types.
-- **Athletic Eligibility:** Designed Vue.js UI components for student and admin pages and parent sign forms. Implemented change requests and resolved critical bugs to improve user experience.
-- **Modiv & MDTel-RPM:** Enhanced dashboards with dynamic graphs and JasperReports. Automated patient eligibility workflows by scripting multi-record data inputs in Python.
+- **FDX Onboarding:** Developed and maintained Vue.js UI components. Created API endpoints for templated email delivery and optimized logic to manage fallout users with temporary membership types.
+- **Athletic Eligibility:** Designed intuitive Vue.js UI components for student/admin pages and parent sign forms. Executed change requests and resolved critical bugs to improve user experience.
+- **Modiv & Mdtel-RPM:** Enhanced dashboards with dynamic graphs and Jasper reports. Automated patient eligibility workflows by scripting multi-record data inputs in Python.
 
 ## Education
 
